@@ -2,4 +2,5 @@
 <br>
 ## Logs!
 <br>
-## Boats!
+## Boats! <br>
+<img src="https://octodex.github.com/images/yaktocat.png" alt="[Image of Yaktocat]">
